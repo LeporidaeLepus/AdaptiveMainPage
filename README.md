@@ -1,6 +1,6 @@
 # NJUPT-SAST_HomePage
 
-To view the demo of this home page, please click **[here](https://leporidaelepus.github.io/NJUPT-SAST_Homepage/)**.
+To view the demo of this home page, please click **[here](https://leporidaelepus.github.io/NJUPT-SAST_Homepage/)**.  
 To visit the NJUPT-SAST website, please click **[here](https://sast.fun)**.
 
 - This is an **interactive** home page built in 2018 which is built for NJUPT-SAST(NJUPT Student Association for Science and Technology)'s website.
